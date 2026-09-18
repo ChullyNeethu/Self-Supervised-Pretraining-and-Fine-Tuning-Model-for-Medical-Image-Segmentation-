@@ -1,5 +1,4 @@
-# Self-Supervised-Pretraining-and-Fine-Tuning-Model-for-Medical-Image-Segmentation-
-# Self-Supervised MAE Pretraining + ResUNet Fine-Tuning for Brain Tumour Segmentation
+# Self-Supervised-Pretraining-and-Fine-Tuning-Model-for-Medical-Image-Segmentation
 
 A two-stage semi-supervised pipeline that uses **Masked Autoencoder (MAE)** pretraining on unlabelled MRI volumes to boost **ResUNet** segmentation performance on the BraTS brain tumour dataset — particularly in low-label-data regimes.
 
